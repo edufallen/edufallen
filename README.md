@@ -8,5 +8,6 @@ This account is the account I use for all schoolwork related needs.
 ### My Projects
 
 - [Save the Oceans](https://edufallen.github.io/save-the-oceans)
+- [All About the Sahara Desert](https://edufallen.github.io/desert/)
 
 
