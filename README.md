@@ -1,9 +1,9 @@
-## My main projects are on [Codeberg](https://codeberg.org/fallendev). 
+## My main projects are on [Codeberg](https://codeberg.org/fallenc). 
 
 
 # Hello, I am edufallen! 👋 
 
-This account is the account I use for all schoolwork related needs.
+This is my alternative account on GitHub.
 
 ### My Projects
 
