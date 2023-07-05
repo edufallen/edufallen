@@ -1,4 +1,4 @@
-## You can find non-school related things on [Codeberg](https://codeberg.org/fallendev). 
+## My main projects are on [Codeberg](https://codeberg.org/fallendev). 
 
 
 # Hello, I am edufallen! 👋 
